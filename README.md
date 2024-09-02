@@ -3,7 +3,9 @@
 This Processing-based health monitoring system offers user authentication, real-time pulse waveform visualization, data storage in a MySQL database, and Telegram notifications.
 
 ## Wireless Device
-![image](https://github.com/user-attachments/assets/93d57c1e-d4bc-4a00-ac06-c80f75d73813) ![image](https://github.com/user-attachments/assets/bd26e868-f52e-4220-b759-1be368f865d4)
+![image](https://github.com/user-attachments/assets/93d57c1e-d4bc-4a00-ac06-c80f75d73813) 
+
+![image](https://github.com/user-attachments/assets/bd26e868-f52e-4220-b759-1be368f865d4)
 
 ## Breadboard implementation
 
